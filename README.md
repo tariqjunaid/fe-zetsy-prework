@@ -1,4 +1,3 @@
-
 # Zetsy
 
 This challenge asks you to build the Zetsy page by writing your own HTML & CSS from scratch to match the mockup image and/or the live site example.
